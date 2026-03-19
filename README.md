@@ -46,9 +46,6 @@ O projeto foi criado para consolidar conhecimentos em desenvolvimento Android mo
 | **AndroidX Lifecycle** | Gerenciamento do ciclo de vida do app |
 | **Gradle Kotlin DSL** | Configuração de build com `build.gradle.kts` para maior type-safety e autocompletar |
 | **Version Catalog (libs.versions.toml)** | Controle centralizado de versões de dependências |
-| **JUnit 4** | Framework de testes unitários |
-| **Espresso** | Testes de instrumentação para UI Android |
-| **Compose UI Test** | Testes de UI específicos para Jetpack Compose |
 
 ---
 
@@ -105,23 +102,6 @@ git clone https://github.com/Fiszbejn/AKD_ConsoleChanger.git
 
 ---
 
-## 🧪 Testes
-
-O projeto conta com infraestrutura de testes configurada:
-
-```bash
-# Testes unitários
-./gradlew test
-
-# Testes instrumentados (requer dispositivo/emulador)
-./gradlew connectedAndroidTest
-```
-
-- `ExampleUnitTest.kt` — testes unitários com JUnit 4
-- `ExampleInstrumentedTest.kt` — testes de instrumentação com AndroidX Test + Compose UI Test
-
----
-
 ## 👨‍💻 Sobre o Desenvolvedor
 
 Desenvolvido por **Davi Fiszbejn** — desenvolvedor Android apaixonado por tecnologia, com foco em criar experiências de usuário modernas e performáticas utilizando a stack mais atual do ecossistema Android.
@@ -130,7 +110,6 @@ Desenvolvido por **Davi Fiszbejn** — desenvolvedor Android apaixonado por tecn
 - 🎨 Experiência com **Material Design 3** e boas práticas de UI/UX
 - 🏗️ Conhecimento em arquitetura **MVVM**, **State Hoisting** e separação de responsabilidades
 - 🔧 Familiaridade com **Gradle Kotlin DSL** e **Version Catalogs**
-- ✅ Prática com **testes automatizados** (JUnit, Espresso, Compose UI Test)
 
 ---
 
