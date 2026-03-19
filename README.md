@@ -102,17 +102,6 @@ git clone https://github.com/Fiszbejn/AKD_ConsoleChanger.git
 
 ---
 
-## 👨‍💻 Sobre o Desenvolvedor
-
-Desenvolvido por **Davi Fiszbejn** — desenvolvedor Android apaixonado por tecnologia, com foco em criar experiências de usuário modernas e performáticas utilizando a stack mais atual do ecossistema Android.
-
-- 💼 Domínio em **Kotlin** e **Jetpack Compose**
-- 🎨 Experiência com **Material Design 3** e boas práticas de UI/UX
-- 🏗️ Conhecimento em arquitetura **MVVM**, **State Hoisting** e separação de responsabilidades
-- 🔧 Familiaridade com **Gradle Kotlin DSL** e **Version Catalogs**
-
----
-
 <p align="center">
   Feito com ❤️ e muito ☕ por <strong>Davi Fiszbejn</strong>
 </p>
