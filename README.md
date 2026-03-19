@@ -103,5 +103,5 @@ git clone https://github.com/Fiszbejn/AKD_ConsoleChanger.git
 ---
 
 <p align="center">
-  Feito com ❤️ e muito ☕ por <strong>Davi Fiszbejn</strong>
+  Feito por <strong>Davi Fiszbejn</strong>
 </p>
